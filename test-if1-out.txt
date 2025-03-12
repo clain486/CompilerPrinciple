@@ -1,0 +1,385 @@
+[0]
+['$']
+[0]
+['$']
+[0, 113]
+['$', 'void']
+[0, 119]
+['$', 'simple_type']
+[0, 6]
+['$', 'type_specifier']
+[0, 6, 7]
+['$', 'type_specifier', 'ID']
+[0, 6, 7, 292]
+['$', 'type_specifier', 'ID', '(']
+[0, 6, 7, 292, 361]
+['$', 'type_specifier', 'ID', '(', ')']
+[0, 6, 7, 292, 361, 296]
+['$', 'type_specifier', 'ID', '(', ')', '{']
+[0, 6, 7, 292, 361, 296, 299]
+['$', 'type_specifier', 'ID', '(', ')', '{', '}']
+[0, 6, 7, 292, 361, 362]
+['$', 'type_specifier', 'ID', '(', ')', 'compound_stmt']
+[0, 5]
+['$', 'fun_declaration']
+[0, 2]
+['$', 'declaration']
+[0, 2, 111]
+['$', 'declaration', 'const']
+[0, 2, 111, 118]
+['$', 'declaration', 'const', 'char']
+[0, 2, 111, 112]
+['$', 'declaration', 'const', 'simple_type']
+[0, 2, 6]
+['$', 'declaration', 'type_specifier']
+[0, 2, 6, 7]
+['$', 'declaration', 'type_specifier', 'ID']
+[0, 2, 6, 7, 292]
+['$', 'declaration', 'type_specifier', 'ID', '(']
+[0, 2, 6, 7, 292, 118]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'char']
+[0, 2, 6, 7, 292, 119]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'simple_type']
+[0, 2, 6, 7, 292, 366]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'type_specifier']
+[0, 2, 6, 7, 292, 366, 367]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'type_specifier', 'ID']
+[0, 2, 6, 7, 292, 373]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'param']
+[0, 2, 6, 7, 292, 363]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'param_list']
+[0, 2, 6, 7, 292, 293]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params']
+[0, 2, 6, 7, 292, 293, 294]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params', ')']
+[0, 2, 6, 7, 292, 293, 294, 296]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', '{']
+[0, 2, 6, 7, 292, 293, 294, 296, 299]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', '{', '}']
+[0, 2, 6, 7, 292, 293, 294, 295]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', 'compound_stmt']
+[0, 2, 5]
+['$', 'declaration', 'fun_declaration']
+[0, 2, 2]
+['$', 'declaration', 'declaration']
+[0, 2, 2, 113]
+['$', 'declaration', 'declaration', 'void']
+[0, 2, 2, 119]
+['$', 'declaration', 'declaration', 'simple_type']
+[0, 2, 2, 6]
+['$', 'declaration', 'declaration', 'type_specifier']
+[0, 2, 2, 6, 7]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID']
+[0, 2, 2, 6, 7, 292]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(']
+[0, 2, 2, 6, 7, 292, 372]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'void']
+[0, 2, 2, 6, 7, 292, 293]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params']
+[0, 2, 2, 6, 7, 292, 293, 294]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params', ')']
+[0, 2, 2, 6, 7, 292, 293, 294, 296]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', '{']
+[0, 2, 2, 6, 7, 292, 293, 294, 296, 299]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', '{', '}']
+[0, 2, 2, 6, 7, 292, 293, 294, 295]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', 'compound_stmt']
+[0, 2, 2, 5]
+['$', 'declaration', 'declaration', 'fun_declaration']
+[0, 2, 2, 2]
+['$', 'declaration', 'declaration', 'declaration']
+[0, 2, 2, 2, 116]
+['$', 'declaration', 'declaration', 'declaration', 'int']
+[0, 2, 2, 2, 119]
+['$', 'declaration', 'declaration', 'declaration', 'simple_type']
+[0, 2, 2, 2, 6]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier']
+[0, 2, 2, 2, 6, 7]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID']
+[0, 2, 2, 2, 6, 7, 292]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(']
+[0, 2, 2, 2, 6, 7, 292, 361]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')']
+[0, 2, 2, 2, 6, 7, 292, 361, 296]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 116]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'int']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 119]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'simple_type']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 309]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'type_specifier']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 309, 310]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'type_specifier', 'ID']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 309, 310, 322]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'type_specifier', 'ID', ';']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 303]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'var_declaration']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 90]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'ID']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 36]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'var']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 134]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'factor']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 126]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'term']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 44]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'additive_expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 44, 221]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'additive_expression', '==']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 44, 45]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'additive_expression', 'relop']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 44, 45, 64]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'additive_expression', 'relop', 'NUM']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 44, 45, 61]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'additive_expression', 'relop', 'factor']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 44, 45, 58]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'additive_expression', 'relop', 'term']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 44, 45, 46]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'additive_expression', 'relop', 'additive_expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 35]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'simple_expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 283]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'ID']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 19]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'var']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 19, 20]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'var', '=']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 19, 20, 269]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'var', '=', 'NUM']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 19, 20, 280]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'var', '=', 'factor']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 19, 20, 287]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'var', '=', 'term']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 19, 20, 25]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'var', '=', 'additive_expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 19, 20, 18]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'var', '=', 'simple_expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 19, 20, 21]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'var', '=', 'expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 323]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 323, 324]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'expression', ';']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 304]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'expression_stmt']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 301]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'statement']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 300]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'statement_list']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 326]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'block_items']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 325, 326, 327]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', '{', 'block_items', '}']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 305]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'compound_stmt']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 283]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'ID']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 19]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'var']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 19, 20]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'var', '=']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 19, 20, 269]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'var', '=', 'NUM']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 19, 20, 280]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'var', '=', 'factor']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 19, 20, 287]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'var', '=', 'term']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 19, 20, 25]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'var', '=', 'additive_expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 19, 20, 18]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'var', '=', 'simple_expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 19, 20, 21]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'var', '=', 'expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 323]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'expression']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 323, 324]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'expression', ';']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 304]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'expression_stmt']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 301]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'statement']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 300]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'statement_list']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 326]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'block_items']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 325, 326, 327]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', '{', 'block_items', '}']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 305]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', 'compound_stmt']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 329, 330, 331, 332, 333, 334, 335]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'if', '(', 'expression', ')', 'statement', 'else', 'statement']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 306]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'selection_stmt']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 301]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'statement']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 301, 302]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement', 'statement_list']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 300]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'statement_list']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 297]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'block_items']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 297, 298]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', 'block_items', '}']
+[0, 2, 2, 2, 6, 7, 292, 361, 362]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', 'compound_stmt']
+[0, 2, 2, 2, 5]
+['$', 'declaration', 'declaration', 'declaration', 'fun_declaration']
+[0, 2, 2, 2, 2]
+['$', 'declaration', 'declaration', 'declaration', 'declaration']
+[0, 2, 2, 2, 3]
+['$', 'declaration', 'declaration', 'declaration', 'declaration_list']
+[0, 2, 2, 3]
+['$', 'declaration', 'declaration', 'declaration_list']
+[0, 2, 3]
+['$', 'declaration', 'declaration_list']
+[0, 1]
+['$', 'declaration_list']
+index:124, node:declaration_list, child:[10, 123], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration_list', 'rhs': ['declaration', 'declaration_list']}, address:0
+index:10, node:declaration, child:[9], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration', 'rhs': ['fun_declaration']}, address:-1
+index:9, node:fun_declaration, child:[2, 3, 4, 5, 8], isLeaf:False, leafVal:None, pro:{'lhs': 'fun_declaration', 'rhs': ['type_specifier', 'ID', '(', ')', 'compound_stmt']}, address:-1
+index:2, node:type_specifier, child:[1], isLeaf:False, leafVal:void, pro:{'lhs': 'type_specifier', 'rhs': ['simple_type']}, address:-1
+index:1, node:simple_type, child:[0], isLeaf:False, leafVal:void, pro:{'lhs': 'simple_type', 'rhs': ['void']}, address:-1
+index:0, node:void, child:[], isLeaf:True, leafVal:void, pro:None, address:-1
+index:3, node:solve, child:[], isLeaf:True, leafVal:solve, pro:None, address:-1
+index:4, node:(, child:[], isLeaf:True, leafVal:(, pro:None, address:-1
+index:5, node:), child:[], isLeaf:True, leafVal:), pro:None, address:-1
+index:8, node:compound_stmt, child:[6, 7], isLeaf:False, leafVal:None, pro:{'lhs': 'compound_stmt', 'rhs': ['{', '}']}, address:-1
+index:6, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:7, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+index:123, node:declaration_list, child:[29, 122], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration_list', 'rhs': ['declaration', 'declaration_list']}, address:0
+index:29, node:declaration, child:[28], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration', 'rhs': ['fun_declaration']}, address:-1
+index:28, node:fun_declaration, child:[14, 15, 16, 23, 24, 27], isLeaf:False, leafVal:None, pro:{'lhs': 'fun_declaration', 'rhs': ['type_specifier', 'ID', '(', 'params', ')', 'compound_stmt']}, address:-1
+index:14, node:type_specifier, child:[11, 13], isLeaf:False, leafVal:None, pro:{'lhs': 'type_specifier', 'rhs': ['const', 'simple_type']}, address:-1
+index:11, node:const, child:[], isLeaf:True, leafVal:const, pro:None, address:-1
+index:13, node:simple_type, child:[12], isLeaf:False, leafVal:char, pro:{'lhs': 'simple_type', 'rhs': ['char']}, address:-1
+index:12, node:char, child:[], isLeaf:True, leafVal:char, pro:None, address:-1
+index:15, node:is_digit, child:[], isLeaf:True, leafVal:is_digit, pro:None, address:-1
+index:16, node:(, child:[], isLeaf:True, leafVal:(, pro:None, address:-1
+index:23, node:params, child:[22], isLeaf:False, leafVal:None, pro:{'lhs': 'params', 'rhs': ['param_list']}, address:-1
+index:22, node:param_list, child:[21], isLeaf:False, leafVal:None, pro:{'lhs': 'param_list', 'rhs': ['param']}, address:-1
+index:21, node:param, child:[19, 20], isLeaf:False, leafVal:None, pro:{'lhs': 'param', 'rhs': ['type_specifier', 'ID']}, address:-1
+index:19, node:type_specifier, child:[18], isLeaf:False, leafVal:char, pro:{'lhs': 'type_specifier', 'rhs': ['simple_type']}, address:-1
+index:18, node:simple_type, child:[17], isLeaf:False, leafVal:char, pro:{'lhs': 'simple_type', 'rhs': ['char']}, address:-1
+index:17, node:char, child:[], isLeaf:True, leafVal:char, pro:None, address:-1
+index:20, node:ch, child:[], isLeaf:True, leafVal:ch, pro:None, address:-1
+index:24, node:), child:[], isLeaf:True, leafVal:), pro:None, address:-1
+index:27, node:compound_stmt, child:[25, 26], isLeaf:False, leafVal:None, pro:{'lhs': 'compound_stmt', 'rhs': ['{', '}']}, address:-1
+index:25, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:26, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+index:122, node:declaration_list, child:[42, 121], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration_list', 'rhs': ['declaration', 'declaration_list']}, address:0
+index:42, node:declaration, child:[41], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration', 'rhs': ['fun_declaration']}, address:-1
+index:41, node:fun_declaration, child:[32, 33, 34, 36, 37, 40], isLeaf:False, leafVal:None, pro:{'lhs': 'fun_declaration', 'rhs': ['type_specifier', 'ID', '(', 'params', ')', 'compound_stmt']}, address:-1
+index:32, node:type_specifier, child:[31], isLeaf:False, leafVal:void, pro:{'lhs': 'type_specifier', 'rhs': ['simple_type']}, address:-1
+index:31, node:simple_type, child:[30], isLeaf:False, leafVal:void, pro:{'lhs': 'simple_type', 'rhs': ['void']}, address:-1
+index:30, node:void, child:[], isLeaf:True, leafVal:void, pro:None, address:-1
+index:33, node:input, child:[], isLeaf:True, leafVal:input, pro:None, address:-1
+index:34, node:(, child:[], isLeaf:True, leafVal:(, pro:None, address:-1
+index:36, node:params, child:[35], isLeaf:False, leafVal:void, pro:{'lhs': 'params', 'rhs': ['void']}, address:-1
+index:35, node:void, child:[], isLeaf:True, leafVal:void, pro:None, address:-1
+index:37, node:), child:[], isLeaf:True, leafVal:), pro:None, address:-1
+index:40, node:compound_stmt, child:[38, 39], isLeaf:False, leafVal:None, pro:{'lhs': 'compound_stmt', 'rhs': ['{', '}']}, address:-1
+index:38, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:39, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+index:121, node:declaration_list, child:[120], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration_list', 'rhs': ['declaration']}, address:0
+index:120, node:declaration, child:[119], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration', 'rhs': ['fun_declaration']}, address:0
+index:119, node:fun_declaration, child:[45, 46, 47, 48, 118], isLeaf:False, leafVal:None, pro:{'lhs': 'fun_declaration', 'rhs': ['type_specifier', 'ID', '(', ')', 'compound_stmt']}, address:0
+index:45, node:type_specifier, child:[44], isLeaf:False, leafVal:int, pro:{'lhs': 'type_specifier', 'rhs': ['simple_type']}, address:-1
+index:44, node:simple_type, child:[43], isLeaf:False, leafVal:int, pro:{'lhs': 'simple_type', 'rhs': ['int']}, address:-1
+index:43, node:int, child:[], isLeaf:True, leafVal:int, pro:None, address:-1
+index:46, node:main, child:[], isLeaf:True, leafVal:main, pro:None, address:-1
+index:47, node:(, child:[], isLeaf:True, leafVal:(, pro:None, address:-1
+index:48, node:), child:[], isLeaf:True, leafVal:), pro:None, address:-1
+index:118, node:compound_stmt, child:[49, 116, 117], isLeaf:False, leafVal:None, pro:{'lhs': 'compound_stmt', 'rhs': ['{', 'block_items', '}']}, address:0
+index:49, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:116, node:block_items, child:[115], isLeaf:False, leafVal:None, pro:{'lhs': 'block_items', 'rhs': ['statement_list']}, address:0
+index:115, node:statement_list, child:[56, 114], isLeaf:False, leafVal:None, pro:{'lhs': 'statement_list', 'rhs': ['statement', 'statement_list']}, address:0
+index:56, node:statement, child:[55], isLeaf:False, leafVal:None, pro:{'lhs': 'statement', 'rhs': ['var_declaration']}, address:-1
+index:55, node:var_declaration, child:[52, 53, 54], isLeaf:False, leafVal:None, pro:{'lhs': 'var_declaration', 'rhs': ['type_specifier', 'ID', ';']}, address:-1
+index:52, node:type_specifier, child:[51], isLeaf:False, leafVal:int, pro:{'lhs': 'type_specifier', 'rhs': ['simple_type']}, address:-1
+index:51, node:simple_type, child:[50], isLeaf:False, leafVal:int, pro:{'lhs': 'simple_type', 'rhs': ['int']}, address:-1
+index:50, node:int, child:[], isLeaf:True, leafVal:int, pro:None, address:-1
+index:53, node:a, child:[], isLeaf:True, leafVal:a, pro:None, address:-1
+index:54, node:;, child:[], isLeaf:True, leafVal:;, pro:None, address:-1
+index:114, node:statement_list, child:[113], isLeaf:False, leafVal:None, pro:{'lhs': 'statement_list', 'rhs': ['statement']}, address:0
+index:113, node:statement, child:[112], isLeaf:False, leafVal:None, pro:{'lhs': 'statement', 'rhs': ['selection_stmt']}, address:0
+index:112, node:selection_stmt, child:[57, 58, 71, 72, 91, 92, 111], isLeaf:False, leafVal:None, pro:{'lhs': 'selection_stmt', 'rhs': ['if', '(', 'expression', ')', 'statement', 'else', 'statement']}, address:0
+index:57, node:if, child:[], isLeaf:True, leafVal:if, pro:None, address:-1
+index:58, node:(, child:[], isLeaf:True, leafVal:(, pro:None, address:-1
+index:71, node:expression, child:[70], isLeaf:False, leafVal:$0, pro:{'lhs': 'expression', 'rhs': ['simple_expression']}, address:0
+index:70, node:simple_expression, child:[63, 65, 69], isLeaf:False, leafVal:$0, pro:{'lhs': 'simple_expression', 'rhs': ['additive_expression', 'relop', 'additive_expression']}, address:0
+index:63, node:additive_expression, child:[62], isLeaf:False, leafVal:a, pro:{'lhs': 'additive_expression', 'rhs': ['term']}, address:-1
+index:62, node:term, child:[61], isLeaf:False, leafVal:a, pro:{'lhs': 'term', 'rhs': ['factor']}, address:-1
+index:61, node:factor, child:[60], isLeaf:False, leafVal:a, pro:{'lhs': 'factor', 'rhs': ['var']}, address:-1
+index:60, node:var, child:[59], isLeaf:False, leafVal:a, pro:{'lhs': 'var', 'rhs': ['ID']}, address:-1
+index:59, node:a, child:[], isLeaf:True, leafVal:a, pro:None, address:-1
+index:65, node:relop, child:[64], isLeaf:False, leafVal:==, pro:{'lhs': 'relop', 'rhs': ['==']}, address:-1
+index:64, node:==, child:[], isLeaf:True, leafVal:==, pro:None, address:-1
+index:69, node:additive_expression, child:[68], isLeaf:False, leafVal:1, pro:{'lhs': 'additive_expression', 'rhs': ['term']}, address:-1
+index:68, node:term, child:[67], isLeaf:False, leafVal:1, pro:{'lhs': 'term', 'rhs': ['factor']}, address:-1
+index:67, node:factor, child:[66], isLeaf:False, leafVal:1, pro:{'lhs': 'factor', 'rhs': ['NUM']}, address:-1
+index:66, node:1, child:[], isLeaf:True, leafVal:1, pro:None, address:-1
+index:72, node:), child:[], isLeaf:True, leafVal:), pro:None, address:-1
+index:91, node:statement, child:[90], isLeaf:False, leafVal:a, pro:{'lhs': 'statement', 'rhs': ['compound_stmt']}, address:3
+index:90, node:compound_stmt, child:[73, 88, 89], isLeaf:False, leafVal:a, pro:{'lhs': 'compound_stmt', 'rhs': ['{', 'block_items', '}']}, address:1
+index:73, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:88, node:block_items, child:[87], isLeaf:False, leafVal:a, pro:{'lhs': 'block_items', 'rhs': ['statement_list']}, address:1
+index:87, node:statement_list, child:[86], isLeaf:False, leafVal:a, pro:{'lhs': 'statement_list', 'rhs': ['statement']}, address:1
+index:86, node:statement, child:[85], isLeaf:False, leafVal:a, pro:{'lhs': 'statement', 'rhs': ['expression_stmt']}, address:1
+index:85, node:expression_stmt, child:[83, 84], isLeaf:False, leafVal:a, pro:{'lhs': 'expression_stmt', 'rhs': ['expression', ';']}, address:1
+index:83, node:expression, child:[75, 76, 82], isLeaf:False, leafVal:a, pro:{'lhs': 'expression', 'rhs': ['var', '=', 'expression']}, address:1
+index:75, node:var, child:[74], isLeaf:False, leafVal:a, pro:{'lhs': 'var', 'rhs': ['ID']}, address:-1
+index:74, node:a, child:[], isLeaf:True, leafVal:a, pro:None, address:-1
+index:76, node:=, child:[], isLeaf:True, leafVal:=, pro:None, address:-1
+index:82, node:expression, child:[81], isLeaf:False, leafVal:2, pro:{'lhs': 'expression', 'rhs': ['simple_expression']}, address:-1
+index:81, node:simple_expression, child:[80], isLeaf:False, leafVal:2, pro:{'lhs': 'simple_expression', 'rhs': ['additive_expression']}, address:-1
+index:80, node:additive_expression, child:[79], isLeaf:False, leafVal:2, pro:{'lhs': 'additive_expression', 'rhs': ['term']}, address:-1
+index:79, node:term, child:[78], isLeaf:False, leafVal:2, pro:{'lhs': 'term', 'rhs': ['factor']}, address:-1
+index:78, node:factor, child:[77], isLeaf:False, leafVal:2, pro:{'lhs': 'factor', 'rhs': ['NUM']}, address:-1
+index:77, node:2, child:[], isLeaf:True, leafVal:2, pro:None, address:-1
+index:84, node:;, child:[], isLeaf:True, leafVal:;, pro:None, address:-1
+index:89, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+index:92, node:else, child:[], isLeaf:True, leafVal:else, pro:None, address:-1
+index:111, node:statement, child:[110], isLeaf:False, leafVal:a, pro:{'lhs': 'statement', 'rhs': ['compound_stmt']}, address:4
+index:110, node:compound_stmt, child:[93, 108, 109], isLeaf:False, leafVal:a, pro:{'lhs': 'compound_stmt', 'rhs': ['{', 'block_items', '}']}, address:2
+index:93, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:108, node:block_items, child:[107], isLeaf:False, leafVal:a, pro:{'lhs': 'block_items', 'rhs': ['statement_list']}, address:2
+index:107, node:statement_list, child:[106], isLeaf:False, leafVal:a, pro:{'lhs': 'statement_list', 'rhs': ['statement']}, address:2
+index:106, node:statement, child:[105], isLeaf:False, leafVal:a, pro:{'lhs': 'statement', 'rhs': ['expression_stmt']}, address:2
+index:105, node:expression_stmt, child:[103, 104], isLeaf:False, leafVal:a, pro:{'lhs': 'expression_stmt', 'rhs': ['expression', ';']}, address:2
+index:103, node:expression, child:[95, 96, 102], isLeaf:False, leafVal:a, pro:{'lhs': 'expression', 'rhs': ['var', '=', 'expression']}, address:2
+index:95, node:var, child:[94], isLeaf:False, leafVal:a, pro:{'lhs': 'var', 'rhs': ['ID']}, address:-1
+index:94, node:a, child:[], isLeaf:True, leafVal:a, pro:None, address:-1
+index:96, node:=, child:[], isLeaf:True, leafVal:=, pro:None, address:-1
+index:102, node:expression, child:[101], isLeaf:False, leafVal:3, pro:{'lhs': 'expression', 'rhs': ['simple_expression']}, address:-1
+index:101, node:simple_expression, child:[100], isLeaf:False, leafVal:3, pro:{'lhs': 'simple_expression', 'rhs': ['additive_expression']}, address:-1
+index:100, node:additive_expression, child:[99], isLeaf:False, leafVal:3, pro:{'lhs': 'additive_expression', 'rhs': ['term']}, address:-1
+index:99, node:term, child:[98], isLeaf:False, leafVal:3, pro:{'lhs': 'term', 'rhs': ['factor']}, address:-1
+index:98, node:factor, child:[97], isLeaf:False, leafVal:3, pro:{'lhs': 'factor', 'rhs': ['NUM']}, address:-1
+index:97, node:3, child:[], isLeaf:True, leafVal:3, pro:None, address:-1
+index:104, node:;, child:[], isLeaf:True, leafVal:;, pro:None, address:-1
+index:109, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+index:117, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+0: (==, a, 1, $0)
+1: (jnz, $0, None, 3)
+2: (j, None, None, 4)
+3: (=, a, 2, None)
+4: (=, a, 3, None)
+True

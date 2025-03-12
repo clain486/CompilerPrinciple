@@ -1,0 +1,179 @@
+[0]
+['$']
+[0]
+['$']
+[0, 113]
+['$', 'void']
+[0, 119]
+['$', 'simple_type']
+[0, 6]
+['$', 'type_specifier']
+[0, 6, 7]
+['$', 'type_specifier', 'ID']
+[0, 6, 7, 292]
+['$', 'type_specifier', 'ID', '(']
+[0, 6, 7, 292, 361]
+['$', 'type_specifier', 'ID', '(', ')']
+[0, 6, 7, 292, 361, 296]
+['$', 'type_specifier', 'ID', '(', ')', '{']
+[0, 6, 7, 292, 361, 296, 299]
+['$', 'type_specifier', 'ID', '(', ')', '{', '}']
+[0, 6, 7, 292, 361, 362]
+['$', 'type_specifier', 'ID', '(', ')', 'compound_stmt']
+[0, 5]
+['$', 'fun_declaration']
+[0, 2]
+['$', 'declaration']
+[0, 2, 111]
+['$', 'declaration', 'const']
+[0, 2, 111, 118]
+['$', 'declaration', 'const', 'char']
+[0, 2, 111, 112]
+['$', 'declaration', 'const', 'simple_type']
+[0, 2, 6]
+['$', 'declaration', 'type_specifier']
+[0, 2, 6, 7]
+['$', 'declaration', 'type_specifier', 'ID']
+[0, 2, 6, 7, 292]
+['$', 'declaration', 'type_specifier', 'ID', '(']
+[0, 2, 6, 7, 292, 118]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'char']
+[0, 2, 6, 7, 292, 119]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'simple_type']
+[0, 2, 6, 7, 292, 366]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'type_specifier']
+[0, 2, 6, 7, 292, 366, 367]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'type_specifier', 'ID']
+[0, 2, 6, 7, 292, 373]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'param']
+[0, 2, 6, 7, 292, 363]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'param_list']
+[0, 2, 6, 7, 292, 293]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params']
+[0, 2, 6, 7, 292, 293, 294]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params', ')']
+[0, 2, 6, 7, 292, 293, 294, 296]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', '{']
+[0, 2, 6, 7, 292, 293, 294, 296, 299]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', '{', '}']
+[0, 2, 6, 7, 292, 293, 294, 295]
+['$', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', 'compound_stmt']
+[0, 2, 5]
+['$', 'declaration', 'fun_declaration']
+[0, 2, 2]
+['$', 'declaration', 'declaration']
+[0, 2, 2, 113]
+['$', 'declaration', 'declaration', 'void']
+[0, 2, 2, 119]
+['$', 'declaration', 'declaration', 'simple_type']
+[0, 2, 2, 6]
+['$', 'declaration', 'declaration', 'type_specifier']
+[0, 2, 2, 6, 7]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID']
+[0, 2, 2, 6, 7, 292]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(']
+[0, 2, 2, 6, 7, 292, 372]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'void']
+[0, 2, 2, 6, 7, 292, 293]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params']
+[0, 2, 2, 6, 7, 292, 293, 294]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params', ')']
+[0, 2, 2, 6, 7, 292, 293, 294, 296]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', '{']
+[0, 2, 2, 6, 7, 292, 293, 294, 296, 299]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', '{', '}']
+[0, 2, 2, 6, 7, 292, 293, 294, 295]
+['$', 'declaration', 'declaration', 'type_specifier', 'ID', '(', 'params', ')', 'compound_stmt']
+[0, 2, 2, 5]
+['$', 'declaration', 'declaration', 'fun_declaration']
+[0, 2, 2, 2]
+['$', 'declaration', 'declaration', 'declaration']
+[0, 2, 2, 2, 116]
+['$', 'declaration', 'declaration', 'declaration', 'int']
+[0, 2, 2, 2, 119]
+['$', 'declaration', 'declaration', 'declaration', 'simple_type']
+[0, 2, 2, 2, 6]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier']
+[0, 2, 2, 2, 6, 7]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID']
+[0, 2, 2, 2, 6, 7, 292]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(']
+[0, 2, 2, 2, 6, 7, 292, 361]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')']
+[0, 2, 2, 2, 6, 7, 292, 361, 296]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{']
+[0, 2, 2, 2, 6, 7, 292, 361, 296, 299]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', '{', '}']
+[0, 2, 2, 2, 6, 7, 292, 361, 362]
+['$', 'declaration', 'declaration', 'declaration', 'type_specifier', 'ID', '(', ')', 'compound_stmt']
+[0, 2, 2, 2, 5]
+['$', 'declaration', 'declaration', 'declaration', 'fun_declaration']
+[0, 2, 2, 2, 2]
+['$', 'declaration', 'declaration', 'declaration', 'declaration']
+[0, 2, 2, 2, 3]
+['$', 'declaration', 'declaration', 'declaration', 'declaration_list']
+[0, 2, 2, 3]
+['$', 'declaration', 'declaration', 'declaration_list']
+[0, 2, 3]
+['$', 'declaration', 'declaration_list']
+[0, 1]
+['$', 'declaration_list']
+index:57, node:declaration_list, child:[10, 56], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration_list', 'rhs': ['declaration', 'declaration_list']}, address:-1
+index:10, node:declaration, child:[9], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration', 'rhs': ['fun_declaration']}, address:-1
+index:9, node:fun_declaration, child:[2, 3, 4, 5, 8], isLeaf:False, leafVal:None, pro:{'lhs': 'fun_declaration', 'rhs': ['type_specifier', 'ID', '(', ')', 'compound_stmt']}, address:-1
+index:2, node:type_specifier, child:[1], isLeaf:False, leafVal:void, pro:{'lhs': 'type_specifier', 'rhs': ['simple_type']}, address:-1
+index:1, node:simple_type, child:[0], isLeaf:False, leafVal:void, pro:{'lhs': 'simple_type', 'rhs': ['void']}, address:-1
+index:0, node:void, child:[], isLeaf:True, leafVal:void, pro:None, address:-1
+index:3, node:solve, child:[], isLeaf:True, leafVal:solve, pro:None, address:-1
+index:4, node:(, child:[], isLeaf:True, leafVal:(, pro:None, address:-1
+index:5, node:), child:[], isLeaf:True, leafVal:), pro:None, address:-1
+index:8, node:compound_stmt, child:[6, 7], isLeaf:False, leafVal:None, pro:{'lhs': 'compound_stmt', 'rhs': ['{', '}']}, address:-1
+index:6, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:7, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+index:56, node:declaration_list, child:[29, 55], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration_list', 'rhs': ['declaration', 'declaration_list']}, address:-1
+index:29, node:declaration, child:[28], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration', 'rhs': ['fun_declaration']}, address:-1
+index:28, node:fun_declaration, child:[14, 15, 16, 23, 24, 27], isLeaf:False, leafVal:None, pro:{'lhs': 'fun_declaration', 'rhs': ['type_specifier', 'ID', '(', 'params', ')', 'compound_stmt']}, address:-1
+index:14, node:type_specifier, child:[11, 13], isLeaf:False, leafVal:None, pro:{'lhs': 'type_specifier', 'rhs': ['const', 'simple_type']}, address:-1
+index:11, node:const, child:[], isLeaf:True, leafVal:const, pro:None, address:-1
+index:13, node:simple_type, child:[12], isLeaf:False, leafVal:char, pro:{'lhs': 'simple_type', 'rhs': ['char']}, address:-1
+index:12, node:char, child:[], isLeaf:True, leafVal:char, pro:None, address:-1
+index:15, node:is_digit, child:[], isLeaf:True, leafVal:is_digit, pro:None, address:-1
+index:16, node:(, child:[], isLeaf:True, leafVal:(, pro:None, address:-1
+index:23, node:params, child:[22], isLeaf:False, leafVal:None, pro:{'lhs': 'params', 'rhs': ['param_list']}, address:-1
+index:22, node:param_list, child:[21], isLeaf:False, leafVal:None, pro:{'lhs': 'param_list', 'rhs': ['param']}, address:-1
+index:21, node:param, child:[19, 20], isLeaf:False, leafVal:None, pro:{'lhs': 'param', 'rhs': ['type_specifier', 'ID']}, address:-1
+index:19, node:type_specifier, child:[18], isLeaf:False, leafVal:char, pro:{'lhs': 'type_specifier', 'rhs': ['simple_type']}, address:-1
+index:18, node:simple_type, child:[17], isLeaf:False, leafVal:char, pro:{'lhs': 'simple_type', 'rhs': ['char']}, address:-1
+index:17, node:char, child:[], isLeaf:True, leafVal:char, pro:None, address:-1
+index:20, node:ch, child:[], isLeaf:True, leafVal:ch, pro:None, address:-1
+index:24, node:), child:[], isLeaf:True, leafVal:), pro:None, address:-1
+index:27, node:compound_stmt, child:[25, 26], isLeaf:False, leafVal:None, pro:{'lhs': 'compound_stmt', 'rhs': ['{', '}']}, address:-1
+index:25, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:26, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+index:55, node:declaration_list, child:[42, 54], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration_list', 'rhs': ['declaration', 'declaration_list']}, address:-1
+index:42, node:declaration, child:[41], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration', 'rhs': ['fun_declaration']}, address:-1
+index:41, node:fun_declaration, child:[32, 33, 34, 36, 37, 40], isLeaf:False, leafVal:None, pro:{'lhs': 'fun_declaration', 'rhs': ['type_specifier', 'ID', '(', 'params', ')', 'compound_stmt']}, address:-1
+index:32, node:type_specifier, child:[31], isLeaf:False, leafVal:void, pro:{'lhs': 'type_specifier', 'rhs': ['simple_type']}, address:-1
+index:31, node:simple_type, child:[30], isLeaf:False, leafVal:void, pro:{'lhs': 'simple_type', 'rhs': ['void']}, address:-1
+index:30, node:void, child:[], isLeaf:True, leafVal:void, pro:None, address:-1
+index:33, node:input, child:[], isLeaf:True, leafVal:input, pro:None, address:-1
+index:34, node:(, child:[], isLeaf:True, leafVal:(, pro:None, address:-1
+index:36, node:params, child:[35], isLeaf:False, leafVal:void, pro:{'lhs': 'params', 'rhs': ['void']}, address:-1
+index:35, node:void, child:[], isLeaf:True, leafVal:void, pro:None, address:-1
+index:37, node:), child:[], isLeaf:True, leafVal:), pro:None, address:-1
+index:40, node:compound_stmt, child:[38, 39], isLeaf:False, leafVal:None, pro:{'lhs': 'compound_stmt', 'rhs': ['{', '}']}, address:-1
+index:38, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:39, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+index:54, node:declaration_list, child:[53], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration_list', 'rhs': ['declaration']}, address:-1
+index:53, node:declaration, child:[52], isLeaf:False, leafVal:None, pro:{'lhs': 'declaration', 'rhs': ['fun_declaration']}, address:-1
+index:52, node:fun_declaration, child:[45, 46, 47, 48, 51], isLeaf:False, leafVal:None, pro:{'lhs': 'fun_declaration', 'rhs': ['type_specifier', 'ID', '(', ')', 'compound_stmt']}, address:-1
+index:45, node:type_specifier, child:[44], isLeaf:False, leafVal:int, pro:{'lhs': 'type_specifier', 'rhs': ['simple_type']}, address:-1
+index:44, node:simple_type, child:[43], isLeaf:False, leafVal:int, pro:{'lhs': 'simple_type', 'rhs': ['int']}, address:-1
+index:43, node:int, child:[], isLeaf:True, leafVal:int, pro:None, address:-1
+index:46, node:main, child:[], isLeaf:True, leafVal:main, pro:None, address:-1
+index:47, node:(, child:[], isLeaf:True, leafVal:(, pro:None, address:-1
+index:48, node:), child:[], isLeaf:True, leafVal:), pro:None, address:-1
+index:51, node:compound_stmt, child:[49, 50], isLeaf:False, leafVal:None, pro:{'lhs': 'compound_stmt', 'rhs': ['{', '}']}, address:-1
+index:49, node:{, child:[], isLeaf:True, leafVal:{, pro:None, address:-1
+index:50, node:}, child:[], isLeaf:True, leafVal:}, pro:None, address:-1
+True
